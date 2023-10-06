@@ -10,3 +10,5 @@ public class WalletApiApplication {
 		SpringApplication.run(WalletApiApplication.class, args);
 	}
 }
+
+// WalletApiApplication
